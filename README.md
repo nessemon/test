@@ -1,1 +1,1 @@
-#This is my first ptoject
+#This is my first project
